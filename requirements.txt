@@ -1,1 +1,3 @@
 feedparser==6.0.8
+Pyrogram~=1.2.20
+pika~=1.2.0
